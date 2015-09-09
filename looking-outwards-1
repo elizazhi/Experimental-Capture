@@ -1,6 +1,8 @@
 # Looking Outwards Report 1
 ## Project : Relighting Human Locomotion with Flowed Reflectance Fields
 
+http://gl.ict.usc.edu/Research/RHL/
+
 This project builds a device which is a sphere of LED lights. It is able to imitate lighting from all possible angles to the object in the center. And with the dataset acquired by filming the object within under viable time and illumination, scientists are able to build realistic models that imitates human movement and body through matched viewpoint and lighting.
 
 The idea is novel and surprisingly easy to start with. If one were to capture a person running realistically through some fake settings, the best idea would be to capture every possible lighting and viewpoint. The device does exactly that, and with computer vision technology, people were able to build 3D models that is a complete double of the original and put it in any possible settings.
