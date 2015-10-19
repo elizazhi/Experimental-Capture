@@ -14,7 +14,9 @@ Video capture
 2.   Eulerian Video Magnification
 The video captured by the DSLR is processed with the method described in the Eulerian Video Magnification. The frequency range of 70 to 95Hz single is extracted and amplified. However instead of visualizing the amplified result as color change directly in the video, I extract the signal by choosing the mean of human face area in I channel (of the HIV color space). Did some more frequency cleaning to obtain the approximate signal changing pattern. Shown as below:
 
-This signal was then parsed to an xml file to substitute XSinAmpt.xml this file was then used to generate the wrap motion using DepthKit visualization.
+This signal was then parsed to an xml file to substitute XSinAmpt.xml. 
+[](https://cloud.githubusercontent.com/assets/11666005/10568200/b9aaf336-75e2-11e5-844f-55e01ec3f6e1.png)
+This file was then used to generate the wrap motion using DepthKit visualization.
 
 ###Final result
 
