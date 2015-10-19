@@ -8,6 +8,7 @@ Former application of Eulerian Video Magnification can be found here:
 [![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/11666005/10568605/7cfe19c6-75e8-11e5-9fcf-8ac49cb73da9.png)](https://www.youtube.com/watch?v=e9ASH8IBJ2U)
 
 In this project I captured a 3D video of a person and added wrapping motion to it at the the same attitude and frequency as the person’s heart rate.
+![](https://cloud.githubusercontent.com/assets/11666005/10568697/d8eac224-75e9-11e5-980e-4b32a667c436.png)
 
 ###Tools
 The tools used for this project are a DepthKit (a DSLR camera and a Kinect). The DSLR is calibrated with the Kinect to obtain the  RGBD data. 
