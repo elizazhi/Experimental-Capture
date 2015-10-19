@@ -4,6 +4,9 @@
 
 ###The idea
 Eulerian Video Magnification is a technique to visualize subtle changes of color or movement in videos by magnifying signals of a chosen frequency. This technique was first proposed in the paper [Eulerian Video Magnification for Revealing Subtle Changes in the World](http://people.csail.mit.edu/mrub/papers/vidmag.pdf)
+Former application of Eulerian Video Magnification can be found here:
+[![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/11666005/10568605/7cfe19c6-75e8-11e5-9fcf-8ac49cb73da9.png)](https://www.youtube.com/watch?v=e9ASH8IBJ2U)
+
 In this project I captured a 3D video of a person and added wrapping motion to it at the the same attitude and frequency as the person’s heart rate.
 
 ###Tools
