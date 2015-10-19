@@ -1,4 +1,4 @@
-#Project 2
+####Project 2
 ## A Person in Time - An Application of Eulerian Video Magnification on 3D Portrait
 ####Liz Zhang
 
@@ -23,7 +23,7 @@ This file was then used to generate the wrap motion using DepthKit visualization
 
 ###Final result
 The final result is shown in the video below. Click for viewing:
-![save 00214](https://cloud.githubusercontent.com/assets/11666005/10568319/5895413a-75e4-11e5-9c8f-558b2ffd2258.png)
+[![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/11666005/10568319/5895413a-75e4-11e5-9c8f-558b2ffd2258.png)](https://www.youtube.com/watch?v=letdB7cHY-g)
 
 ###Reference
 1. Wu, Hao-Yu, et al. "Eulerian video magnification for revealing subtle changes in the world." ACM Trans. Graph. 31.4 (2012): 65.
