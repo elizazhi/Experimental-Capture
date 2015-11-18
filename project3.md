@@ -29,6 +29,6 @@ For post processing, we wrote our program to get rid of the hole in the 360 vide
 
 ###Final result
 The final output is shown below:
-
+[![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/11666005/11250078/9f77ecd4-8df8-11e5-8fc2-6dcd651688a9.png)](https://vimeo.com/146141367)
 
 
