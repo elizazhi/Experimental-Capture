@@ -21,6 +21,19 @@ This is a picture taken from the Carnegie Museum of Art:
 Imagine ourselves floating in the air and view the artwork from mid air, what we see would look like this:
 ![demo_h_crp](https://cloud.githubusercontent.com/assets/11666005/11649128/9d3d675e-9d49-11e5-837d-d061e56b370a.jpg)
 
+We can do much more if we have the focus length data, which we can easily obtain from the RAW data from Lytro.
+With the focus length data we can estimate the depth of objects in a static image. And using methods describted by 
+in their paper, we can do 3D reconstruction from a single image for box-like scenes:
+
+Below is a photo I took in the Art Museum:
+![img_0144](https://cloud.githubusercontent.com/assets/11666005/11650873/8e90848c-9d5a-11e5-81fa-1b542f5431ec.jpg)
+
+And with perspective transformation, 3D mapping and texturing, I am able to get a box that mimics the original scene:
+![art11-1](https://cloud.githubusercontent.com/assets/11666005/11650768/e7fa6322-9d59-11e5-8af6-93efd09e0de5.jpg)
+![art11-1](https://cloud.githubusercontent.com/assets/11666005/11650939/1f6a738c-9d5b-11e5-9165-be4f107cff1c.jpg)
+![art11-2](https://cloud.githubusercontent.com/assets/11666005/11650770/e7fd1fe0-9d59-11e5-820d-05f587b66f58.jpg)
+
+
 Using similar method, we can refocus on certain object and changing the perspective at the same time.
 Below are two scenes I took from the Art Museum. They are found in the sculpture hall, miniatures of the first Thanksgiving in America.
 
