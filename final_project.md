@@ -5,7 +5,9 @@
 ####Liz Zhang
 
 ###The idea
-In this project we tried combining a drone with a 360 lens and have it fly straight, up, down, and spin to get the raw footages which we use to edit into a music video.
+The world in photos is what the photographer sees, in other word, what the photographer notices. We are so used to look at the world from the photographer's perspective that we sometimes forget to ask "what would we have seen if we were there?" So how can we see things differently from a photo already taken? The lytro camera offers one option by letting the user take the photo first and focus on arbitraty object later. But that only makes the object clearer, it remains "stuck" in its "rightful" place and there is nothing it can do about it.
+
+Except with projective transformation we can do something about it. And with a Lytro camera, there are more than one ways of viewing things differently. By constructing homographies and morphing we can theratically bring any object to the real center of the camera as if we are facing right at it. I would like to combine the lytro camera and perspective transformation, so that we not only change the focus of a scene, but also its perspective so the object in question not only becomes clearer, but brought to the center of the stage. Also, since the Lytro camera captures the depth of scene, we can use it to map the pixels to its depth and do 3D reconstruction from a single image. These are the two main ideas I will explore in this project.
 
 ###Tools
 The tools used for this project are a Lytro Camera, Matlab, Lytro Desktop, and Meshlab
