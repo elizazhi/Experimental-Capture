@@ -21,6 +21,29 @@ This is a picture taken from the Carnegie Museum of Art:
 Imagine ourselves floating in the air and view the artwork from mid air, what we see would look like this:
 ![demo_h_crp](https://cloud.githubusercontent.com/assets/11666005/11649128/9d3d675e-9d49-11e5-837d-d061e56b370a.jpg)
 
+Using similar method, we can refocus on certain object and changing the perspective at the same time.
+Below are two scenes I took from the Art Museum. They are found in the sculpture hall, miniatures of the first Thanksgiving in America.
+
+#####A normal photo taken from the front is shown below:
+
+![img_man_front](https://cloud.githubusercontent.com/assets/11666005/11650249/75bbf39c-9d55-11e5-92f2-2b763fb65668.jpg)
+The Lytro refocused photos and their corresponding perspective transformed photos:
+
+1)  Focusing on the man in front:
+![img_2_man_h](https://cloud.githubusercontent.com/assets/11666005/11650280/a8ccf89e-9d55-11e5-9d2f-48f247d052a2.jpg)
+2) Focusing on the group of women sitting in under the arch:
+![flock_h](https://cloud.githubusercontent.com/assets/11666005/11650279/a679a222-9d55-11e5-8eb7-7aa35f0fd021.JPG)
+3)Focusing on the man holding a plate standing behind:
+![img_plate_h](https://cloud.githubusercontent.com/assets/11666005/11650255/7c0e4420-9d55-11e5-86e7-7c9abad8e796.jpg)
+
+#####Another Scene:
+![img_back](https://cloud.githubusercontent.com/assets/11666005/11650364/7be3b6b4-9d56-11e5-8b4d-ea1b6e7424df.jpg)
+1) Focusing on the child:
+![img_child_h](https://cloud.githubusercontent.com/assets/11666005/11650367/860fc3d0-9d56-11e5-8d34-8c58e1adcf47.jpg)
+2) Focusing on the cow:
+![img_cow_h](https://cloud.githubusercontent.com/assets/11666005/11650368/8611ae5c-9d56-11e5-8042-23e15c96b8d0.jpg)
+
+
 #### 2. 3D reconstruction using light field data
 
 Using the Lytro Desktop we can extract a depth map and a refocused image. These are the data I used for 3D reconstruction.
