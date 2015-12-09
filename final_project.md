@@ -29,7 +29,7 @@ Below is a photo I took in the Art Museum:
 ![img_0144](https://cloud.githubusercontent.com/assets/11666005/11650873/8e90848c-9d5a-11e5-81fa-1b542f5431ec.jpg)
 
 And with perspective transformation, 3D mapping and texturing, I am able to get a box that mimics the original scene:
-![art11-1](https://cloud.githubusercontent.com/assets/11666005/11650768/e7fa6322-9d59-11e5-8af6-93efd09e0de5.jpg)
+[![](https://cloud.githubusercontent.com/assets/11666005/11650768/e7fa6322-9d59-11e5-8af6-93efd09e0de5.jpg)](https://vimeo.com/148391778)
 ![art11-1](https://cloud.githubusercontent.com/assets/11666005/11650939/1f6a738c-9d5b-11e5-9165-be4f107cff1c.jpg)
 ![art11-2](https://cloud.githubusercontent.com/assets/11666005/11650770/e7fd1fe0-9d59-11e5-820d-05f587b66f58.jpg)
 
