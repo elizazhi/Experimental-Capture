@@ -37,6 +37,9 @@ And with perspective transformation, 3D mapping and texturing, I am able to get 
 Using similar method, we can refocus on certain object and changing the perspective at the same time.
 Below are two scenes I took from the Art Museum. They are found in the sculpture hall, miniatures of the first Thanksgiving in America.
 
+The processing pipeline is shown as below:
+![diagram 001](https://cloud.githubusercontent.com/assets/11666005/11696863/8d37a7ca-9e84-11e5-98e2-1214a3c802fa.jpeg)
+
 #####A normal photo taken from the front is shown below:
 
 ![img_man_front](https://cloud.githubusercontent.com/assets/11666005/11650249/75bbf39c-9d55-11e5-92f2-2b763fb65668.jpg)
