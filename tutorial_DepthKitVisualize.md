@@ -30,7 +30,7 @@ In the above example I substituded the XSinAmpt.xml with my own.
 ![](https://cloud.githubusercontent.com/assets/11666005/10568200/b9aaf336-75e2-11e5-844f-55e01ec3f6e1.png)
 This file was then used to generate the wrap motion using DepthKit visualization.
 
-The above signals will then reflect in the waveline shown in the warping when reopening DepthkitVisualize. One can easily make their own configuration in this way. I used a java parser to do that, the code can be found here.
+The above signals will then reflect in the waveline shown in the warping when reopening DepthkitVisualize. One can easily make their own configuration in this way. I used a java parser to do that, the code can be found here(https://github.com/elizazhi/Experimental-Capture/tree/master/xmlMaker).
 
 
 
